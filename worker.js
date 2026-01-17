@@ -39,7 +39,7 @@ const FALLBACK_MIRRORS = [
  * @param {string} domain - 当前访问域名（如 https://github-proxy.asailor.org）| Current domain (e.g., https://github-proxy.asailor.org)
  * @returns {string} HTML 页面内容 | HTML page content
  */
-function getHomePage(domain = 'https://your-worker.workers.dev') {
+function getHomePage(domain = 'https://github.shanetian.top') {
     return `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
