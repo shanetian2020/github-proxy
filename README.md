@@ -12,11 +12,11 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/Aethersailor/cf-ghproxy-worker/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/Aethersailor/cf-ghproxy-worker?style=flat&logo=github)](https://github.com/Aethersailor/cf-ghproxy-worker/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Aethersailor/cf-ghproxy-worker?style=flat&logo=github)](https://github.com/Aethersailor/cf-ghproxy-worker/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Aethersailor/cf-ghproxy-worker?style=flat&logo=github)](https://github.com/Aethersailor/cf-ghproxy-worker/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/Aethersailor/cf-ghproxy-worker?style=flat&logo=github)](https://github.com/Aethersailor/cf-ghproxy-worker/commits/main)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/shanetian2020/cfgithub-proxy/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/shanetian2020/github-proxy?style=flat&logo=github)](https://github.com/shanetian2020/github-proxy/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shanetian2020/github-proxy?style=flat&logo=github)](https://github.com/shanetian2020/github-proxy/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/shanetian2020/github-proxy?style=flat&logo=github)](https://github.com/shanetian2020/github-proxy/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/shanetian2020/github-proxy?style=flat&logo=github)](https://github.com/shanetian2020/cfgithub-ghproxy/commits/main)
 
 <br/>
 
@@ -117,7 +117,7 @@
 
 点击下方按钮，自动部署到 Cloudflare Workers：
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Aethersailor/cf-ghproxy-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/shanetian2020/github-proxy)
 
 <br/>
 
