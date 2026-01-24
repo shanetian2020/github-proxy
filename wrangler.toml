@@ -1,4 +1,4 @@
-name = "github-proxy"
+name = "ghproxy"
 main = "worker.js"
 compatibility_date = "2023-12-01"
 
@@ -6,4 +6,4 @@ compatibility_date = "2023-12-01"
 # https://developers.cloudflare.com/workers/configuration/
 
 [env.production]
-name = "github-proxy"
+name = "ghproxy"
